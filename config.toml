@@ -1,5 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Welcome to the Domonation'
-
-theme = "hugo-dusk"
