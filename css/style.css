@@ -98,7 +98,7 @@ body {
 .footer {
     padding: 20px;
     text-align: center;
-    background: #ddd;
+    background: var(--c4);
     margin-top: 20px;
 }
 
