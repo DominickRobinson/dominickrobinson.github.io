@@ -1,0 +1,25 @@
+.row:before,
+.row:after {
+    content: "";
+    display: table;
+}
+
+.row:after {
+    clear: both
+}
+
+.col {
+    float: left
+}
+
+.col-right {
+    float: right
+}
+
+.col,
+.col-right {
+    margin-top: 0px;
+    padding-top: 0%;
+    margin-bottom: 0px;
+    padding-bottom: 0%;
+}
