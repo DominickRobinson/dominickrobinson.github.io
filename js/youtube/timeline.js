@@ -1,7 +1,7 @@
 let videos = [
     // title, date, description, url, other classes (cool, important)
     ["Monk Combat 3 (2004) Review", "Dec. 25, 2022", "", "", "cool"],
-    ["do for pres 2023", "Nov. 18, 2022", "", "piwgtrE9Cbk", "cool"],
+    ["dom for pres 2023", "Nov. 18, 2022", "", "piwgtrE9Cbk", "cool"],
     ["burp 6", "Jul. 25, 2022", "", "9qo3aKsWYGk", "cool"],
     ["Pickleball Battles: Domonation vs Lexsensation", "Jul 19, 2022", "battle of the century", "g1FRIUsQH7A", "cool"],
     ["The Scream Chamber", "Jun 20, 2022", "CMU is really hard", "b48Jvso_I6U", "cool"],
