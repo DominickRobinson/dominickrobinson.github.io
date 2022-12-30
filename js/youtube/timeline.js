@@ -1,22 +1,15 @@
 let videos = [
     // title, date, description, url, other classes (cool, important)
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
-    ["", "", "", "", ""],
+    ["Monk Combat 3 (2004) Review", "Dec. 25, 2022", "", "", "cool"],
+    ["do for pres 2023", "Nov. 18, 2022", "", "piwgtrE9Cbk", "cool"],
+    ["burp 6", "Jul. 25, 2022", "", "9qo3aKsWYGk", "cool"],
+    ["Pickleball Battles: Domonation vs Lexsensation", "Jul 19, 2022", "battle of the century", "g1FRIUsQH7A", "cool"],
+    ["The Scream Chamber", "Jun 20, 2022", "CMU is really hard", "b48Jvso_I6U", "cool"],
+    ["Supreme Hen Donkey (Supreme Edition) - Release Trailer (Premiere)", "Jun 12, 2022", `<a href="https://domonation-studios.itch.io/supreme-hen-donkey">Play the game now!</a>`, "2T96Oe09hgQ", "cool"],
+    ["i got my wisdom teeth out!!", "Jun 5, 2022", "yep", "2UIQnotGGlY", "cool"],
+    ["burp", "May 23, 2022", "roar", "ExwMA71SIbw", "cool"],
+    ["M e o w", "Feb 6, 2022", "", "9bojLx7E8Rg", "cool"],
+    ["And many more!!", "2019-2022", "<a href='https://www.youtube.com/@DomonationYT/featured'>Explore the channel!</a>", "", "milestone"],
     ["To All Of My Haters", "Nov. 13, 2018", "", "IXDFVSPd19k", ""],
     ["WHY MP4 IS THE BEST FILE FORMAT ( (ALMOST DIED)(NOT CLICKBAIT)", "Nov. 8, 2018", "My first video :D", "uD2nDM85GlU", "cool"]
 ];
@@ -65,9 +58,9 @@ function createAllContent() {
     }
     html_script += `</div >`;
 
-    return html_script
+    return html_script;
 }
 
 var output = createAllContent();
-document.write(output)
-console.log(output)
+document.write(output);
+// console.log(output)
