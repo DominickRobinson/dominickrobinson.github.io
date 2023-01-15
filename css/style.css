@@ -19,6 +19,7 @@
 } */
 
 :root {
+    /* colors */
     --bg: #91a1b6;
     --banner: #e94f37;
     --border: #393e41;
@@ -27,8 +28,46 @@
     --font: var(--border);
     --link: var(--banner);
 
+    /* section colors */
+    --about-color: #e94f37;
+    --games-color: #3884e8;
+    --youtube-color: #e8a238;
+    --writing-color: #b038e8;
+    --resume-color: #30CC5F;
+    --other-color: #31cbb1;
+
+
+    /* other */
     --radius: 8px;
 }
+
+
+/* section colors */
+.about:hover {
+    background-color: var(--about-color);
+}
+
+.games:hover {
+    background-color: var(--games-color);
+}
+
+.youtube:hover {
+    background-color: var(--youtube-color);
+}
+
+.writing:hover {
+    background-color: var(--writing-color);
+}
+
+.resume:hover {
+    background-color: var(--resume-color);
+}
+
+.other:hover {
+    background-color: var(--other-color);
+}
+
+/* section colors */
 
 
 * {
@@ -45,7 +84,7 @@ body {
 
 /* Header/Blog Title */
 .header {
-    padding: 20px;
+    padding: 15px;
     text-align: center;
     background: var(--banner);
     border-color: var(--border);
@@ -55,6 +94,8 @@ body {
     border-top-left-radius: var(--radius);
     border-top-right-radius: var(--radius);
 }
+
+
 
 h1 {
     font-size: 50px;
@@ -95,7 +136,7 @@ h1 {
 
 /* Change color on hover */
 .topnav a:hover {
-    background-color: var(--banner);
+    /* background-color: var(--banner); */
     color: var(--card);
 }
 
@@ -195,6 +236,7 @@ a:hover {
     border-color: var(--border);
     border-width: 8px;
     border-style: solid;
+    border-radius: var(--radius);
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
