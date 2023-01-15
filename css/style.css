@@ -19,13 +19,15 @@
 } */
 
 :root {
-    --bg: #778da9;
+    --bg: #91a1b6;
     --banner: #e94f37;
     --border: #393e41;
     --card: #f6f7eb;
     --card-title-font: #5c415d;
     --font: var(--border);
     --link: var(--banner);
+
+    --radius: 8px;
 }
 
 
@@ -50,6 +52,8 @@ body {
     border-width: 8px;
     border-bottom-width: 4px;
     border-style: solid;
+    border-top-left-radius: var(--radius);
+    border-top-right-radius: var(--radius);
 }
 
 h1 {
@@ -75,6 +79,8 @@ h1 {
     border-width: 8px;
     border-top-width: 4px;
     border-style: solid;
+    border-bottom-left-radius: var(--radius);
+    border-bottom-right-radius: var(--radius);
 }
 
 /* Style the topnav links */
