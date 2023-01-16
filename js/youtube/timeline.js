@@ -9,7 +9,6 @@ let videos = [
     ["i got my wisdom teeth out!!", "Jun 5, 2022", "yep", "2UIQnotGGlY", "cool"],
     ["burp", "May 23, 2022", "roar", "ExwMA71SIbw", "cool"],
     ["M e o w", "Feb 6, 2022", "", "9bojLx7E8Rg", "cool"],
-    ["And many more!!", "2019-2022", "<a href='https://www.youtube.com/@DomonationYT/featured'>Explore the channel!</a>", "", "milestone"],
     ["To All Of My Haters", "Nov. 13, 2018", "", "IXDFVSPd19k", ""],
     ["WHY MP4 IS THE BEST FILE FORMAT ( (ALMOST DIED)(NOT CLICKBAIT)", "Nov. 8, 2018", "My first video :D", "uD2nDM85GlU", "cool"]
 ];

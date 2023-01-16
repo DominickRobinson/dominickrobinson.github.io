@@ -122,6 +122,9 @@
     position: relative;
     border-radius: 8px;
     min-width: 200px;
+    border-width: 6px;
+    border-color: var(--border-color);
+    border-style: solid;
 }
 
 .content>h2:hover {
