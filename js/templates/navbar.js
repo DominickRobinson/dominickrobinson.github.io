@@ -14,7 +14,7 @@ var navbar = `
     <a href="../html/games.html">Games</a>
     <a href="../html/youtube.html">YouTube</a>
     <a href="../html/writing.html">Writing</a>
-    <a href="../html/resume.html">Resume</a>
+    <a href="../assets/pdf/CV.pdf">Resume</a>
     <a href="../html/other.html">Other</a>
 </div>`;
 
