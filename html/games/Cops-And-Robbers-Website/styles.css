@@ -1,0 +1,210 @@
+/* Reset some default styles */
+body,
+h1,
+h2,
+p,
+a {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global styles */
+body {
+    font-family: "Arial", sans-serif;
+    background-color: #232323;
+    /* Dark gray background color */
+    color: #fff;
+    /* White text color */
+    padding: 20px
+}
+
+/* Divider line styles */
+.divider {
+    border: none;
+    border-top: 1px solid #555;
+    /* Dark gray border color */
+    margin: 20px 0;
+}
+
+/* Global section styles */
+section {
+    padding: 20px;
+    /* Add padding to all sections */
+}
+
+
+
+
+/* Header styles */
+header h1 {
+    font-size: 72px;
+    /* Increase font size for a gritty look */
+    font-family: 'Impact', sans-serif;
+    /* Use a gritty font */
+    color: #ff9800;
+    /* Orange color */
+    margin: 20px;
+    /* Add margin to all sides */
+    letter-spacing: 3px;
+    /* Add letter spacing for a stylish effect */
+}
+
+
+header p {
+    font-size: 18px;
+    margin: 10px 20px;
+    /* Add margin to top and bottom, and left and right */
+    color: #aaa;
+}
+
+
+
+
+.games {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.game-description,
+.game-buttons {
+    margin: 20px 0;
+    font-size: 2em;
+}
+
+.game-buttons {
+    display: flex;
+    gap: 4em;
+    /* Add gap between buttons */
+}
+
+
+
+/* Play button styles */
+.play-button {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #ff9800;
+    /* Orange button color */
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.play-button:hover {
+    background-color: #e67e00;
+    /* Darker orange on hover */
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    background-color: #333;
+}
+
+footer p {
+    font-size: 16px;
+    color: #888;
+}
+
+/* Oppenheimer-themed styling */
+.credits {
+    background-color: #444;
+    /* Dark gray background color */
+}
+
+.credits h2,
+.summary h2,
+.screenshots h2 {
+    color: #ff9800;
+    /* Orange color */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    margin-bottom: 20px;
+    /* Add margin for spacing */
+}
+
+.credits .contributors {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.credits .contributor {
+    text-align: center;
+    width: calc(25% - 20px);
+    /* Adjust width with padding */
+    margin: 20px 0;
+}
+
+.credits img {
+    width: 12em;
+    /* Adjusted size */
+    height: 12em;
+    /* Adjusted size */
+    border-radius: 50%;
+    margin-bottom: 15px;
+    border: 4px solid #ff9800;
+    /* Orange border */
+}
+
+.credits p,
+.summary p,
+.games p {
+    color: #aaa;
+    font-size: 1.5rem;
+    line-height: 1.4;
+}
+
+/* Adjusted size for screenshots */
+.screenshots section {
+    background-color: #444;
+    /* Dark gray background color */
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.screenshot {
+    flex: 0 0 25%;
+    /* Adjust width for four columns */
+    padding: 2em;
+    /* Add padding for spacing */
+    box-sizing: border-box;
+    /* Include padding in width calculation */
+}
+
+.screenshot img {
+    width: 100%;
+    /* Set the width to 100% of the container */
+    height: 100%;
+    /* Set the height to 100% of the container */
+    object-fit: cover;
+    /* Scale the image to cover the entire container while maintaining aspect ratio */
+    border: 4px solid #ff9800;
+    /* Orange border */
+    border-radius: 8px;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    background-color: #333;
+    padding: 20px;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-content img {
+    max-width: 3em;
+    /* Adjust the max-width to your preferred size */
+    height: auto;
+    margin: 0 10px
+}
