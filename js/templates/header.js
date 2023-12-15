@@ -20,12 +20,18 @@ document.write(header);
 
 var navbar = `
 <div class="topnav">
+    <div class="left-links">
     <a class="about" href="../html/home.html">Home</a>
     <a class="games" href="../html/games.html">Games</a>
     <a class="youtube" href="../html/youtube.html">YouTube</a>
     <a class="writing" href="../html/writing.html">Writing</a>
-    <a class="resume" href="../assets/pdf/CV.pdf">Resume</a>
+    <a class="resume" href="../assets/pdf/DOMINICK_ROBINSON_RESUME.pdf">Resume</a>
     <a class="other" href="../html/other.html">Other</a>
+    </div>
+
+    <div class="right-links">
+    <a class="github" href="https://github.com/DominickRobinson">GitHub</a>
+    </div>
 </div>`;
 
 {/* <a href="https://aleca.icu/" style="float:right">LEXSENSATION</a> */ }
