@@ -1,0 +1,138 @@
+:root {
+    /* Define color variables */
+    --background-color: #91a1b6;
+    /* Light blue-gray for background */
+    --accent-color: #FF4500;
+    /* Bright red-orange for links and accents */
+    --text-color-light: white;
+    /* White text for navbar and footer */
+    --text-color-dark: black;
+    /* Dark text for content */
+    --border-color: #333;
+    /* Border and navbar/footer background color */
+
+    /* Other variables */
+    --border-radius: 0.5em;
+    /* Rounded corners */
+    --border-width: 0.25em;
+    /* Border width */
+    --navbar-link-spacing: 0.3em;
+    /* Spacing between navbar links */
+    --navbar-padding: 0.875em;
+    /* Padding inside navbar */
+    --navbar-link-vertical-padding: 1em;
+    /* Vertical padding for navbar/footer links */
+}
+
+
+
+header {
+    text-align: center;
+    background-color: var(--accent-color);
+    padding: 2em;
+
+    /* background-image: url('path-to-your-image.jpg'); */
+    /* Replace with the actual image path */
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* Adjust the background size as needed */
+    background-position: center;
+    /* Center the background image */
+    color: var(--text-color-light);
+}
+
+/* Reset some default styles */
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    scroll-behavior: smooth;
+    background-color: var(--background-color);
+    height: 100%;
+}
+
+/* Navbar styles */
+nav {
+    background-color: var(--border-color);
+    /* position: fixed; */
+    /* top: 0; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /* Center the links */
+    z-index: 10;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    padding: var(--navbar-padding) 0;
+}
+
+nav a {
+    color: var(--text-color-light);
+    text-align: center;
+    padding: var(--navbar-link-vertical-padding) 1.25em;
+    /* Adjusted vertical padding */
+    text-decoration: none;
+    transition: background-color 0.3s;
+    margin: 0 var(--navbar-link-spacing);
+    border-radius: var(--border-radius);
+}
+
+nav a:hover {
+    background-color: var(--accent-color);
+}
+
+
+
+section {
+    margin: 1.25em;
+    background-color: white;
+    padding: 1.25em;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius: var(--border-radius);
+    border: var(--border-width) solid var(--border-color);
+}
+
+section h2 {
+    color: var(--text-color-dark);
+    border-bottom: 2px solid var(--border-color);
+    padding-bottom: 0.625em;
+    margin-bottom: 1.25em;
+}
+
+/* Date subtext styles */
+.date {
+    color: var(--text-color-dark);
+    font-size: 0.9em;
+    margin-bottom: 0.9375em;
+}
+
+/* Footer styles */
+footer {
+    text-align: center;
+    padding: var(--navbar-padding) 0;
+    background-color: var(--border-color);
+    color: var(--text-color-light);
+    width: 100%;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.2);
+    flex-shrink: 0;
+}
+
+footer .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+
+footer .social-links a {
+    color: var(--text-color-light);
+    text-decoration: none;
+    transition: color 0.3s;
+    padding: var(--navbar-link-vertical-padding) 1em;
+    /* Adjusted vertical padding */
+    border-radius: var(--border-radius);
+}
+
+footer .social-links a:hover {
+    background-color: var(--accent-color);
+}
