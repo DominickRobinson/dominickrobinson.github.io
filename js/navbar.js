@@ -2,10 +2,10 @@ var code =
     `
 
 <nav class="navbar">
-    <a href="#home">Home</a>
+    <a href="home.html">Home</a>
     <a href="#portfolio">Portfolio</a>
     <a href="#resume">Resume</a>
-    <a href="#games">Games</a>
+    <a href="games.html">Games</a>
     <a href="#writings">Writings</a>
 </nav>
 
