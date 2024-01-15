@@ -3,8 +3,8 @@ var code =
 
 <nav class="navbar">
     <a href="home.html">Home</a>
-    <a href="#portfolio">Portfolio</a>
-    <a href="#resume">Resume</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="assets/pdf/DOMINICK_ROBINSON_RESUME.pdf">Resume</a>
     <a href="games.html">Games</a>
     <a href="#writings">Writings</a>
 </nav>

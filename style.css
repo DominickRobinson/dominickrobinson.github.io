@@ -86,26 +86,26 @@ footer .social-links a:hover {
 
 
 .section-header {
-    display: flex;
-    justify-content: space-between;
-    justify-content: start;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* justify-content: start; */
     align-items: center;
     border-bottom: 2px solid var(--border-color);
     padding-bottom: 0.625em;
     margin-bottom: 1.25em;
 }
 
-.section-title {
+.section-header h2 {
     margin: 0;
-    margin-right: 0.5em;
+    margin-bottom: 0.25em;
     /* Removes default margin from h2 */
-    flex: 1;
+    /* flex: 1; */
     /* Allows the title to take up the available space */
 }
 
-.section-date {
+.section-header p {
+    /* margin-top: 1em; */
     margin: 0;
-    margin-left: 0.5em;
     /* Adjusts spacing as needed */
 }
 
