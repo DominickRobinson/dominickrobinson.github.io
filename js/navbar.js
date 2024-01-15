@@ -6,7 +6,7 @@ var code =
     <a href="portfolio.html">Portfolio</a>
     <a href="assets/pdf/DOMINICK_ROBINSON_RESUME.pdf">Resume</a>
     <a href="games.html">Games</a>
-    <a href="#writings">Writings</a>
+    <a href="writings.html">Writings</a>
 </nav>
 
 <script>
