@@ -24,6 +24,8 @@ html {
     font-family: Arial, sans-serif;
     scroll-behavior: smooth;
     background: linear-gradient(to bottom right, var(--background-color2), var(--background-color));
+    /* background-repeat: repeat; */
+    background-attachment: fixed;
     height: 100%;
 }
 
@@ -75,6 +77,7 @@ footer .social-links a {
     padding: var(--navbar-link-vertical-padding) 1.25em;
     margin: 0 var(--navbar-link-spacing);
     border-radius: var(--border-radius);
+    font-size: large;
 }
 
 nav a:hover,
