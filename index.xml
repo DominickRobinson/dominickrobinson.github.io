@@ -1,45 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dominick Robinson</title><link>https://domonation.dev/</link><description>Recent content on Dominick Robinson</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://domonation.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Games</title><link>https://domonation.dev/games/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domonation.dev/games/</guid><description>&lt;h2 id="about-my-games">About My Games&lt;/h2>
-&lt;p>Ever since I made my first game at the beginning of 2022 in CMU&amp;rsquo;s Game Creation Society club, I’ve been totally hooked! Game dev combines many of my favorite things:&lt;/p>
-&lt;ul>
-&lt;li>Problem Solving&lt;/li>
-&lt;li>Programming&lt;/li>
-&lt;li>Creativity&lt;/li>
-&lt;li>Humor&lt;/li>
-&lt;li>Video Games&lt;/li>
-&lt;/ul>
-&lt;p>After college, I intend to continue making games as a hobby and possibly as a side hustle. My game engine of choice is &lt;a href="https://godotengine.org/">Godot&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;h3 id="gcs-creation-showdown">&lt;a href="https://domonation-studios.itch.io/gcs">GCS Creation Showdown&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>September – December 2024&lt;/strong>&lt;br>
-A crossover-fighting game for CMU’s Game Creation Society.&lt;/p></description></item><item><title>Portfolio</title><link>https://domonation.dev/portfolio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domonation.dev/portfolio/</guid><description>&lt;h2 id="about-my-portfolio">About My Portfolio&lt;/h2>
-&lt;p>I love combining statistics, programming, and math to solve real problems.&lt;/p>
-&lt;hr>
-&lt;h3 id="tennis-computer-vision-analysis-tool">Tennis Computer Vision Analysis Tool&lt;/h3>
-&lt;p>&lt;strong>Coming 2025&lt;/strong>&lt;br>
-Stay tuned!&lt;/p>
-&lt;hr>
-&lt;h3 id="is-gen-alpha-cooked">&lt;a href="https://domonation.dev/pdf/Text%20Analysis%20Final%20Project.pdf">Is Gen Alpha “Cooked?”&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>December 2024&lt;/strong>&lt;br>
-Reddit linguistic analysis across generations. I loved setting up the data pipeline.&lt;/p>
-&lt;hr>
-&lt;h3 id="feeding-cmu-orientation-using-optimization">&lt;a href="https://domonation.dev/pdf/OR2%20Final%20Project.pdf">Feeding CMU Orientation Using Optimization&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>December 2024&lt;/strong>&lt;/p>
-&lt;hr>
-&lt;h3 id="tennis-elo-what-if-calculator">&lt;a href="http://domonation.pythonanywhere.com/">Tennis ELO What-If Calculator&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>January 2024&lt;/strong>&lt;/p>
-&lt;hr>
-&lt;h3 id="gamification-in-the-classroom">&lt;a href="https://domonation.dev/pdf/AP_Research_Paper.pdf">Gamification in the Classroom&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>2020–2021&lt;/strong>&lt;/p></description></item><item><title>Resume</title><link>https://domonation.dev/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domonation.dev/resume/</guid><description>&lt;h2 id="my-resume">My Resume&lt;/h2>
-&lt;p>You can &lt;a href="https://domonation.dev/pdf/resume.pdf">download the PDF&lt;/a> or view it inline below:&lt;/p>
-&lt;!-- raw HTML omitted --></description></item><item><title>Welcome to the Domonation!</title><link>https://domonation.dev/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domonation.dev/about/</guid><description>&lt;p>Hello passerby,&lt;/p>
-&lt;p>I&amp;rsquo;m Dominick Robinson, a senior at Carnegie Mellon University studying Mathematics (concentration in Statistics) with a Creative Writing minor. I am currently interested in pursuing data science, software engineering, or something in the middle.&lt;/p>
-&lt;p>Outside of academics and work, I love playing tennis, pickleball, and all other racket sports. I have a &lt;a href="https://www.youtube.com/@DomonationYT">YouTube channel&lt;/a> that nowadays mainly serves to preserve things I like to do. I also love developing games, which you’ll find on this site.&lt;/p></description></item><item><title>Writings</title><link>https://domonation.dev/writings/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://domonation.dev/writings/</guid><description>&lt;h2 id="about-my-writings">About My Writings&lt;/h2>
-&lt;p>I&amp;rsquo;m pursuing a Creative Writing minor, which has led to some of my most personal and humorous works.&lt;/p>
-&lt;hr>
-&lt;h3 id="cmu-pickleball">&lt;a href="http://thetartan.org/2023/9/11/sports/pickleball">CMU Pickleball&amp;rsquo;s Successful Summer&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>September 2023&lt;/strong>&lt;br>
-CMU Pickleball had a sizzling summer in 2023 as they earned 5 medals in various events, so I just had to create another article for The Tartan to commemorate it.&lt;/p>
-&lt;hr>
-&lt;h3 id="cmu-pickleball-plays-inaugural-game-at-rmu">&lt;a href="http://thetartan.org/2023/5/1/sports/pickleball">CMU Pickleball Plays Inaugural Game at RMU&lt;/a>&lt;/h3>
-&lt;p>&lt;strong>May 2023&lt;/strong>&lt;br>
-I wrote this article for the school newspaper The Tartan to commemorate CMU Pickleball&amp;rsquo;s first-ever match against another school. While we got smoked, it was still a lot of fun. This article also granted me the position of &amp;ldquo;Junior Staffwriter.&amp;rdquo;&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dominick Robinson</title>
+    <link>https://domonation.dev/</link>
+    <description>Recent content on Dominick Robinson</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://domonation.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Games</title>
+      <link>https://domonation.dev/games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://domonation.dev/games/</guid>
+      <description>&lt;h2 id=&#34;about-my-games&#34;&gt;About My Games&lt;/h2&gt;&#xA;&lt;p&gt;Ever since I made my first game at the beginning of 2022 in CMU&amp;rsquo;s Game Creation Society club, I’ve been totally hooked! Game dev combines many of my favorite things:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Problem Solving&lt;/li&gt;&#xA;&lt;li&gt;Programming&lt;/li&gt;&#xA;&lt;li&gt;Creativity&lt;/li&gt;&#xA;&lt;li&gt;Humor&lt;/li&gt;&#xA;&lt;li&gt;Video Games&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;After college, I intend to continue making games as a hobby and possibly as a side hustle. My game engine of choice is &lt;a href=&#34;https://godotengine.org/&#34;&gt;Godot&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;gcs-creation-showdown&#34;&gt;&lt;a href=&#34;https://domonation-studios.itch.io/gcs&#34;&gt;GCS Creation Showdown&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;September – December 2024&lt;/strong&gt;&lt;br&gt;&#xA;A crossover-fighting game for CMU’s Game Creation Society.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>https://domonation.dev/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://domonation.dev/portfolio/</guid>
+      <description>&lt;h2 id=&#34;about-my-portfolio&#34;&gt;About My Portfolio&lt;/h2&gt;&#xA;&lt;p&gt;I love combining statistics, programming, and math to solve real problems.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;tennis-computer-vision-analysis-tool&#34;&gt;Tennis Computer Vision Analysis Tool&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Coming 2025&lt;/strong&gt;&lt;br&gt;&#xA;Stay tuned!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;is-gen-alpha-cooked&#34;&gt;&lt;a href=&#34;https://domonation.dev/pdf/Text%20Analysis%20Final%20Project.pdf&#34;&gt;Is Gen Alpha “Cooked?”&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;December 2024&lt;/strong&gt;&lt;br&gt;&#xA;Reddit linguistic analysis across generations. I loved setting up the data pipeline.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;feeding-cmu-orientation-using-optimization&#34;&gt;&lt;a href=&#34;https://domonation.dev/pdf/OR2%20Final%20Project.pdf&#34;&gt;Feeding CMU Orientation Using Optimization&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;December 2024&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;tennis-elo-what-if-calculator&#34;&gt;&lt;a href=&#34;http://domonation.pythonanywhere.com/&#34;&gt;Tennis ELO What-If Calculator&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;January 2024&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;gamification-in-the-classroom&#34;&gt;&lt;a href=&#34;https://domonation.dev/pdf/AP_Research_Paper.pdf&#34;&gt;Gamification in the Classroom&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;2020–2021&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>https://domonation.dev/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://domonation.dev/resume/</guid>
+      <description>&lt;h2 id=&#34;my-resume&#34;&gt;My Resume&lt;/h2&gt;&#xA;&lt;p&gt;You can &lt;a href=&#34;https://domonation.dev/pdf/resume.pdf&#34;&gt;download the PDF&lt;/a&gt; or view it inline below:&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to the Domonation!</title>
+      <link>https://domonation.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://domonation.dev/about/</guid>
+      <description>&lt;p&gt;Hello passerby,&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Dominick Robinson, a senior at Carnegie Mellon University studying Mathematics (concentration in Statistics) with a Creative Writing minor. I am currently interested in pursuing data science, software engineering, or something in the middle.&lt;/p&gt;&#xA;&lt;p&gt;Outside of academics and work, I love playing tennis, pickleball, and all other racket sports. I have a &lt;a href=&#34;https://www.youtube.com/@DomonationYT&#34;&gt;YouTube channel&lt;/a&gt; that nowadays mainly serves to preserve things I like to do. I also love developing games, which you’ll find on this site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writings</title>
+      <link>https://domonation.dev/writings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://domonation.dev/writings/</guid>
+      <description>&lt;h2 id=&#34;about-my-writings&#34;&gt;About My Writings&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m pursuing a Creative Writing minor, which has led to some of my most personal and humorous works.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;cmu-pickleball&#34;&gt;&lt;a href=&#34;http://thetartan.org/2023/9/11/sports/pickleball&#34;&gt;CMU Pickleball&amp;rsquo;s Successful Summer&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;September 2023&lt;/strong&gt;&lt;br&gt;&#xA;CMU Pickleball had a sizzling summer in 2023 as they earned 5 medals in various events, so I just had to create another article for The Tartan to commemorate it.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;cmu-pickleball-plays-inaugural-game-at-rmu&#34;&gt;&lt;a href=&#34;http://thetartan.org/2023/5/1/sports/pickleball&#34;&gt;CMU Pickleball Plays Inaugural Game at RMU&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;May 2023&lt;/strong&gt;&lt;br&gt;&#xA;I wrote this article for the school newspaper The Tartan to commemorate CMU Pickleball&amp;rsquo;s first-ever match against another school. While we got smoked, it was still a lot of fun. This article also granted me the position of &amp;ldquo;Junior Staffwriter.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
