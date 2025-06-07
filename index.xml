@@ -26,7 +26,7 @@
       <link>https://domonation.dev/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://domonation.dev/resume/</guid>
-      <description>&lt;h2 id=&#34;my-resume&#34;&gt;My Resume&lt;/h2&gt;&#xA;&lt;p&gt;You can &lt;a href=&#34;https://domonation.dev/pdf/DOMINICK_ROBINSON_RESUME.pdf&#34;&gt;download the PDF&lt;/a&gt; or view it inline below:&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://domonation.dev/pdf/DOMINICK_ROBINSON_RESUME.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; style=&#34;border:1px solid #ccc;&#34;&gt;&#xA;    &lt;p&gt;Your browser doesn&#39;t support embedded PDFs. &lt;a href=&#34;https://domonation.dev/pdf/DOMINICK_ROBINSON_RESUME.pdf&#34;&gt;Download here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/iframe&gt;</description>
+      <description>&lt;h2 id=&#34;my-resume&#34;&gt;My Resume&lt;/h2&gt;&#xA;&lt;p&gt;You can &lt;a href=&#34;https://domonation.dev/pdf/DOMINICK_ROBINSON_RESUME.pdf&#34;&gt;download the PDF&lt;/a&gt; or view it inline below:&lt;/p&gt;&#xA;&lt;iframe&#xA;  src=&#34;https://docs.google.com/gview?url=https://domonation.dev/pdf/DOMINICK_ROBINSON_RESUME.pdf&amp;embedded=true&#34;&#xA;  width=&#34;100%&#34;&#xA;  height=&#34;600px&#34;&#xA;  style=&#34;border:1px solid #ccc;&#34;&#xA;  allowfullscreen&gt;&#xA;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>Welcome to the Domonation!</title>
