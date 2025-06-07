@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Dominick Robinson</title>
+    <link>https://domonation.dev/blog/</link>
+    <description>Recent content in Blog on Dominick Robinson</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://domonation.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://domonation.dev/blog/test-post/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://domonation.dev/blog/test-post/</guid>
+      <description>&lt;p&gt;This is the body of your blog post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
