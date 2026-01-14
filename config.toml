@@ -1,0 +1,3 @@
+baseURL = "https://domonation.dev/"
+relativeURLs = false
+canonifyURLs = true

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Games on Domonation</title>
+    <link>http://localhost:1313/games/</link>
+    <description>Recent content in Games on Domonation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jan 2026 17:19:51 -0500</lastBuildDate><atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Chess</title>
+      <link>http://localhost:1313/games/chess/</link>
+      <pubDate>Fri, 02 Jan 2026 17:08:45 -0500</pubDate>
+      
+      <guid>http://localhost:1313/games/chess/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>5 Nights on Wean 4</title>
+      <link>http://localhost:1313/games/5_nights_on_wean_4/</link>
+      <pubDate>Fri, 02 Jan 2026 17:01:48 -0500</pubDate>
+      
+      <guid>http://localhost:1313/games/5_nights_on_wean_4/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>GCS Smash</title>
+      <link>http://localhost:1313/games/gcs_smash/</link>
+      <pubDate>Fri, 02 Jan 2026 17:01:39 -0500</pubDate>
+      
+      <guid>http://localhost:1313/games/gcs_smash/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Pickleball Club: The Dawn of Pete the Pickle</title>
+      <link>http://localhost:1313/games/pickleball_club/</link>
+      <pubDate>Fri, 02 Jan 2026 17:01:34 -0500</pubDate>
+      
+      <guid>http://localhost:1313/games/pickleball_club/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Cops and Robbers</title>
+      <link>http://localhost:1313/games/cops_and_robbers/</link>
+      <pubDate>Fri, 02 Jan 2026 17:01:15 -0500</pubDate>
+      
+      <guid>http://localhost:1313/games/cops_and_robbers/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>The Adventures of Eggbert the Eagle</title>
+      <link>http://localhost:1313/games/eggbert/</link>
+      <pubDate>Fri, 02 Jan 2026 17:01:08 -0500</pubDate>
+      
+      <guid>http://localhost:1313/games/eggbert/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Mad Rabbits: Epic Vegetable Quest</title>
+      <link>http://localhost:1313/games/mad_rabbits/</link>
+      <pubDate>Fri, 02 Jan 2026 17:00:59 -0500</pubDate>
+      
+      <guid>http://localhost:1313/games/mad_rabbits/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Supreme Hen Donkey</title>
+      <link>http://localhost:1313/games/supreme_hen_donkey/</link>
+      <pubDate>Fri, 02 Jan 2026 17:00:52 -0500</pubDate>
+      
+      <guid>http://localhost:1313/games/supreme_hen_donkey/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Swordfight</title>
+      <link>http://localhost:1313/games/swordfight/</link>
+      <pubDate>Fri, 02 Jan 2026 17:00:44 -0500</pubDate>
+      
+      <guid>http://localhost:1313/games/swordfight/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Amogus Platformer</title>
+      <link>http://localhost:1313/games/amogus_platformer/</link>
+      <pubDate>Fri, 02 Jan 2026 17:00:36 -0500</pubDate>
+      
+      <guid>http://localhost:1313/games/amogus_platformer/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
