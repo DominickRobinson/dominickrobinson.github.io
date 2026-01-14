@@ -1,7 +1,0 @@
-# config/_default/hugo.toml
-
-baseURL: "https://domonation.dev/"
-languageCode: "en-us"
-title: "Domonation"
-theme: "PaperModX"
-#theme: "hugo-goa"
