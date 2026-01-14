@@ -3,5 +3,6 @@
 baseURL: "https://domonation.dev/"
 languageCode: "en-us"
 title: "Domonation"
-theme: "PaperModX"
+theme: "PaperMod"
 #theme: "hugo-goa"
+# theme: ga-hugo-theme
