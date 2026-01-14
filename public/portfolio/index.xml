@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portfolio on Domonation</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolio on Domonation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jan 2026 16:41:05 -0500</lastBuildDate><atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generational_slang</title>
+      <link>http://localhost:1313/portfolio/generational_slang/</link>
+      <pubDate>Fri, 02 Jan 2026 16:59:06 -0500</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/generational_slang/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Feeding_cmu_orientation</title>
+      <link>http://localhost:1313/portfolio/feeding_cmu_orientation/</link>
+      <pubDate>Fri, 02 Jan 2026 16:58:57 -0500</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/feeding_cmu_orientation/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Gamification</title>
+      <link>http://localhost:1313/portfolio/gamification/</link>
+      <pubDate>Fri, 02 Jan 2026 16:58:29 -0500</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/gamification/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>ATP What-If ELO Dashboard</title>
+      <link>http://localhost:1313/portfolio/atp_elo_dashboard/</link>
+      <pubDate>Fri, 02 Jan 2026 16:58:19 -0500</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/atp_elo_dashboard/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Identifying_anchor_client</title>
+      <link>http://localhost:1313/portfolio/identifying_anchor_client/</link>
+      <pubDate>Fri, 02 Jan 2026 16:58:03 -0500</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/identifying_anchor_client/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Etl_knowledge_transfer</title>
+      <link>http://localhost:1313/portfolio/etl_knowledge_transfer/</link>
+      <pubDate>Fri, 02 Jan 2026 16:56:59 -0500</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/etl_knowledge_transfer/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Hiv_treatment_report</title>
+      <link>http://localhost:1313/portfolio/hiv_treatment_report/</link>
+      <pubDate>Fri, 02 Jan 2026 16:56:13 -0500</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/hiv_treatment_report/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Rail_trail_report</title>
+      <link>http://localhost:1313/portfolio/rail_trail_report/</link>
+      <pubDate>Fri, 02 Jan 2026 16:55:32 -0500</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/rail_trail_report/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

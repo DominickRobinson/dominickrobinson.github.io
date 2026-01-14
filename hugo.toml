@@ -1,5 +1,0 @@
-baseURL = "https://domonation.dev/"
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-
-theme = "hugo-goa"
