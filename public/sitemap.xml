@@ -2,8 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/games/</loc>
+    <lastmod>2026-01-02T17:19:51-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-01-02T17:19:51-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/chess/</loc>
+    <lastmod>2026-01-02T17:08:45-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/cmupb_first_match/</loc>
+    <lastmod>2026-01-02T17:05:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/</loc>
+    <lastmod>2026-01-02T17:05:27-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/cmupb_successful_summer/</loc>
+    <lastmod>2026-01-02T17:05:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/mad_rabbits/</loc>
+    <lastmod>2026-01-02T17:03:01-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/americas_greatest_depression/</loc>
+    <lastmod>2026-01-02T17:02:37-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writings/hardcore_parkour/</loc>
+    <lastmod>2026-01-02T17:02:29-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/5_nights_on_wean_4/</loc>
+    <lastmod>2026-01-02T17:01:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/gcs_smash/</loc>
+    <lastmod>2026-01-02T17:01:39-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/pickleball_club/</loc>
+    <lastmod>2026-01-02T17:01:34-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/cops_and_robbers/</loc>
+    <lastmod>2026-01-02T17:01:15-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/eggbert/</loc>
+    <lastmod>2026-01-02T17:01:08-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/mad_rabbits/</loc>
+    <lastmod>2026-01-02T17:00:59-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/supreme_hen_donkey/</loc>
+    <lastmod>2026-01-02T17:00:52-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/swordfight/</loc>
+    <lastmod>2026-01-02T17:00:44-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/games/amogus_platformer/</loc>
+    <lastmod>2026-01-02T17:00:36-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/generational_slang/</loc>
+    <lastmod>2026-01-02T16:59:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/feeding_cmu_orientation/</loc>
+    <lastmod>2026-01-02T16:58:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/gamification/</loc>
+    <lastmod>2026-01-02T16:58:29-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/atp_elo_dashboard/</loc>
+    <lastmod>2026-01-02T16:58:19-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/identifying_anchor_client/</loc>
+    <lastmod>2026-01-02T16:58:03-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/etl_knowledge_transfer/</loc>
+    <lastmod>2026-01-02T16:56:59-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/hiv_treatment_report/</loc>
+    <lastmod>2026-01-02T16:56:13-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/rail_trail_report/</loc>
+    <lastmod>2026-01-02T16:55:32-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2026-01-02T16:41:05-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

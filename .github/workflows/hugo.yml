@@ -56,10 +56,15 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+
+      - name: Add CNAME to public
+        run: cp CNAME ./public/CNAME
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+
 
   # Deployment job
   deploy:
