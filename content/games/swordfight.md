@@ -1,5 +1,7 @@
-+++
-date = '2026-01-02T17:00:44-05:00'
-draft = true
-title = 'Swordfight'
-+++
+---
+title: "Swordfight"
+date: 2018-04-01
+draft: false
+---
+
+My first ever programmed game. Made for CMU CS Academy’s game contest in high school. No source code remains, but it lives in memory.

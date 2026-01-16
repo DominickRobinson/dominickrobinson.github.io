@@ -1,5 +1,9 @@
-+++
-date = '2026-01-02T17:01:39-05:00'
-draft = true
-title = 'GCS Smash'
-+++
+---
+title: "GCS Creation Showdown"
+date: 2024-12-01
+draft: false
+---
+
+A crossover-fighting game for CMU’s Game Creation Society.
+
+[Play on itch.io](https://domonation-studios.itch.io/gcs)

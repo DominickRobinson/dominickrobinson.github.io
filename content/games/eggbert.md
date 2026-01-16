@@ -1,5 +1,9 @@
-+++
-date = '2026-01-02T17:01:08-05:00'
-draft = true
-title = 'The Adventures of Eggbert the Eagle'
-+++
+---
+title: "Eggbert the Eagle"
+date: 2023-01-01
+draft: false
+---
+
+My most polished and complete game. Features charming art and an online leaderboard.
+
+[Play online](https://domonation.dev/games/Eggbert/Eggbert.html)

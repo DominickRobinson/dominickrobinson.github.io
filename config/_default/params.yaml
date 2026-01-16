@@ -24,6 +24,35 @@ profileMode:
   imageWidth: 160
   imageHeight: 160
 
+  # buttons:
+  #   - name: Portfolio
+  #     url: /portfolio/
+  #   - name: Games
+  #     url: /games/
+  #   - name: Writings
+  #     url: /writings/
+
+params:
+  profileMode:
+    description: |
+      Welcome to the Domonation! I’m Dominick Robinson, a student in
+      Carnegie Mellon University’s
+      [Master of Applied Data Science (MADS)](https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/)
+      program and a
+      [Rales Fellow](https://ralesfellows.org/).
+
+      I recently completed my undergraduate degree at CMU in Mathematical Sciences,
+      with a concentration in Statistics and a minor in Creative Writing.
+
+      Across this site, you’ll find my work building applications and games,
+      developing data science projects, and writing about technical and creative topics.
+
+      I am currently seeking a role post-graduation. If you’d like to get in touch,
+      you can reach me at **dominicr [at] andrew [dot] cmu [dot] edu**.
+
+  dateFormat: "January 2006"
+
+
 socialIcons:
   - name: email
     url: "mailto:drobinson.lbe@gmail.com"

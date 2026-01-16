@@ -1,5 +1,9 @@
-+++
-date = '2026-01-02T16:58:19-05:00'
-draft = true
-title = 'ATP What-If ELO Dashboard'
-+++
+---
+title: "Tennis ELO What-If Calculator"
+date: 2024-01-01
+draft: false
+---
+
+Interactive web tool for calculating Tennis ELO outcomes.
+
+[Try it online](http://domonation.pythonanywhere.com/)

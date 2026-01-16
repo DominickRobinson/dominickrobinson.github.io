@@ -1,23 +1,36 @@
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default ":date_long" site.Params.DateFormat)))) }}
+  {{- $dateFormat := default "January 2006" site.Params.dateFormat -}}
+  {{- $startDate := .Date -}}
+  {{- $endDate := .Params.endDate }} <!-- optional end date from front matter -->
+
+  {{- if $endDate }}
+    {{- $scratch.Add "meta" (slice (printf "<span title='%s – %s'>%s – %s</span>" 
+        $startDate $endDate 
+        ($startDate | time.Format $dateFormat) 
+        ($endDate | time.Format $dateFormat))) }}
+  {{- else }}
+    {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" 
+        $startDate 
+        ($startDate | time.Format $dateFormat))) }}
+  {{- end }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}
-{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)))) }}
+  {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "read_time" .ReadingTime | default (printf "%d min" .ReadingTime)))) }}
 {{- end }}
 
 {{- if (.Param "ShowWordCount") -}}
-{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "words" .WordCount | default (printf "%d words" .WordCount)))) }}
+  {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" (i18n "words" .WordCount | default (printf "%d words" .WordCount)))) }}
 {{- end }}
 
 {{- if not (.Param "hideAuthor") -}}
-{{- with (partial "author.html" .) }}
-{{- $scratch.Add "meta" (slice (printf "<span>%s</span>" .)) }}
-{{- end }}
+  {{- with (partial "author.html" .) }}
+    {{- $scratch.Add "meta" (slice (printf "<span>%s</span>" .)) }}
+  {{- end }}
 {{- end }}
 
 {{- with ($scratch.Get "meta") }}
-{{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
+  {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
 {{- end -}}

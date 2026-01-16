@@ -1,5 +1,9 @@
-+++
-date = '2026-01-02T16:58:57-05:00'
-draft = true
-title = 'Feeding_cmu_orientation'
-+++
+---
+title: "Feeding CMU Orientation Using Optimization"
+date: 2024-12-01
+draft: false
+---
+
+Optimization project for managing CMU Orientation logistics.
+
+[View PDF](https://domonation.dev/pdf/OR2%20Final%20Project.pdf)

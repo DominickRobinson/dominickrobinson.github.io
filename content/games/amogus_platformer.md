@@ -1,5 +1,9 @@
-+++
-date = '2026-01-02T17:00:36-05:00'
-draft = true
-title = 'Amogus Platformer'
-+++
+---
+title: "Sussy Platformer"
+date: 2021-12-01
+draft: false
+---
+
+My first engine-made game using PICO-8. Tutorial-based with custom art.
+
+[Play online](https://domonation.dev/games/sussy/sussy.html)
