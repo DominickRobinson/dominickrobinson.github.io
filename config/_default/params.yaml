@@ -19,8 +19,8 @@ profileMode:
   enabled: true
   title: "Dominick Robinson"
   # subtitle: "Game dev • Data • Writing"
-  imageUrl: "/images/me.jpg"
-  imageTitle: "That's me"
+  imageUrl: "/images/portrait/me.jpg"
+  imageTitle: "That's me!"
   imageWidth: 160
   imageHeight: 160
   
