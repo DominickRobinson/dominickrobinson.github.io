@@ -3,3 +3,27 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
+.profile-description {
+  max-width: 720px;
+  margin: 1.25rem auto 0;
+  text-align: left;
+
+  font-size: 1rem;
+  line-height: 1.65;
+  color: var(--content);
+}
+
+.profile-description p {
+  margin-bottom: 1.25rem;
+}
+
+.profile-description p:last-child {
+  margin-bottom: 0;
+}
+
+.profile-description a {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+

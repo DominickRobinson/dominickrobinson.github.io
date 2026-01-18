@@ -4,6 +4,6 @@ date: 2021-01-01
 draft: false
 ---
 
-Research paper on using gamification to enhance learning.
+AP Research paper on using various gamification and types of leaderboards to enhance learning/performance in a novel cognitive task.
 
-[View PDF](https://domonation.dev/pdf/AP_Research_Paper.pdf)
+[View PDF](/pdf/AP_Research_Paper.pdf)

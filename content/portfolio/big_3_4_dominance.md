@@ -1,9 +1,11 @@
 ---
 title: "Dominance of the Big 3/4 in Men's Professional Tennis"
-date: 2021-01-01
+date: 2024-10-01
 draft: false
+tags:
+    - data
 ---
 
-Research paper on using gamification to enhance learning.
+Infographic depicting the unprecendented domination of the Big 3/4 in Men's professional tennis through various key statistics and records.
 
-[View PDF](https://domonation.dev/pdf/AP_Research_Paper.pdf)
+[View PDF](/pdf/atp_dominance_visualization.pdf)

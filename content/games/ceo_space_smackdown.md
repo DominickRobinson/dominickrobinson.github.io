@@ -1,9 +1,10 @@
 ---
 title: "CEO Space Smackdown"
 date: 2023-09-16
-draft: true
+draft: false
 ---
 
-A fun weekend project. Here’s a [VLOG](https://youtu.be/AH2bXAy0UsM) about making it.
+I developed this game from scratch with some of my friends over just a few hours. It is probably the worse game I have ever made, but it's pretty funny.
 
-[Play on itch.io](https://domonation-studios.itch.io/ceo-space-smackdown)
+[Watch the VLOG](https://youtu.be/AH2bXAy0UsM)
+[Download from itch.io](https://domonation-studios.itch.io/ceo-space-smackdown)

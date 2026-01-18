@@ -18,38 +18,30 @@ EnableInstantClick: true
 profileMode:
   enabled: true
   title: "Dominick Robinson"
-  subtitle: "Game dev • Data • Writing"
+  # subtitle: "Game dev • Data • Writing"
   imageUrl: "/images/me.jpg"
   imageTitle: "That's me"
   imageWidth: 160
   imageHeight: 160
+  
 
-  # buttons:
-  #   - name: Portfolio
-  #     url: /portfolio/
-  #   - name: Games
-  #     url: /games/
-  #   - name: Writings
-  #     url: /writings/
+  description: |
+    I’m Dominick Robinson, currently a student in [Carnegie Mellon University](https://www.cmu.edu)'s [**Master of Applied Data Science (MADS)**](https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/index.html) program. I am proudly a [**Rales Fellow**](https://www.cmu.edu/graduate/rales-fellows/). I completed my undergrad at CMU studying Math with a concentration in Statistics and a minor in Creative.
+
+    I'm currently looking for a data science/data-related role. I'm also open to Software Engineering positions, as I have lots of programming experience, including taking many Computer Science and Software Engineering courses at CMU, as well as developing video games and other projects for fun.
+
+    Outside of school, I really enjoy playing tennis and pickleball, and, as previously mentioned, developing video games.
+
+
+  buttons:
+    - name: Portfolio
+      url: /portfolio/
+    - name: Games
+      url: /games/
+    - name: Writings
+      url: /writings/
 
 params:
-  profileMode:
-    description: |
-      Welcome to the Domonation! I’m Dominick Robinson, a student in
-      Carnegie Mellon University’s
-      [Master of Applied Data Science (MADS)](https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/)
-      program and a
-      [Rales Fellow](https://ralesfellows.org/).
-
-      I recently completed my undergraduate degree at CMU in Mathematical Sciences,
-      with a concentration in Statistics and a minor in Creative Writing.
-
-      Across this site, you’ll find my work building applications and games,
-      developing data science projects, and writing about technical and creative topics.
-
-      I am currently seeking a role post-graduation. If you’d like to get in touch,
-      you can reach me at **dominicr [at] andrew [dot] cmu [dot] edu**.
-
   dateFormat: "January 2006"
 
 

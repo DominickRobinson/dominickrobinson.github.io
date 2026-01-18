@@ -4,6 +4,6 @@ date: 2024-12-01
 draft: false
 ---
 
-Optimization project for managing CMU Orientation logistics.
+Optimization project for managing CMU Orientation food logistics.
 
-[View PDF](https://domonation.dev/pdf/OR2%20Final%20Project.pdf)
+[View PDF](/pdf/or2_final_project.pdf)

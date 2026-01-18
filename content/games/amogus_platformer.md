@@ -4,6 +4,6 @@ date: 2021-12-01
 draft: false
 ---
 
-My first engine-made game using PICO-8. Tutorial-based with custom art.
+This was the first game I ever made in a proper game engine. I followed a basic PICO-8 platformer tutorial, but drew my own "suspicious" sprites.
 
-[Play online](https://domonation.dev/games/sussy/sussy.html)
+[Play game](https://domonation.dev/games/sussy/sussy.html)
