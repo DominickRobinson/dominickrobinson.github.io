@@ -4,4 +4,16 @@ title: "Portfolio"
 
 I have completed many academic and personal projects over the years. Here is a comprehensive list of as many as I could find (besides assignments that cannot be shared due to [AIV](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html) concerns).
 
-[Download resume](/pdf/_DOMINICK_ROBINSON_CV.pdf)
+[Download Resume (PDF)](https://github.com/DominickRobinson/Resume-Generator/releases/latest/download/DOMINICK_ROBINSON_RESUME.pdf)
+
+<div style="margin-top: 20px;">
+  <object 
+    data="https://github.com/DominickRobinson/Resume-Generator/releases/latest/download/DOMINICK_ROBINSON_RESUME.pdf" 
+    type="application/pdf" 
+    width="100%" 
+    height="900px">
+    <p>Your browser doesn't support inline PDFs. 
+       <a href="https://github.com/DominickRobinson/Resume-Generator/releases/latest/download/DOMINICK_ROBINSON_RESUME.pdf">Click here to download it instead.</a>
+    </p>
+  </object>
+</div>
