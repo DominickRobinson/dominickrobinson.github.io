@@ -1,7 +1,7 @@
 ---
 title: "Time Series Final Project: Predicting Average Electricity Prices from Data Center Investments
 and the AI Boom in the US"
-date: 2026-04
+date: 2026-04-01
 draft: false
 tags:
     - data
