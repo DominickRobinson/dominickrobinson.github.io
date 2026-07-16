@@ -1,5 +1,5 @@
 ---
-title: "Statistical Machine Learning Final Project: Predicting Flight Delays"
+title: "Predicting Flight Delays"
 date: 2026-04-01
 draft: false
 tags:

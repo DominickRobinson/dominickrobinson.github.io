@@ -1,5 +1,5 @@
 ---
-title: "Experimental Design Final Project: Investigating Effect of Early Morning Courses on Academic Performance"
+title: "Investigating Effect of Early Morning Courses on Academic Performance"
 date: 2026-04-01
 draft: false
 tags:

@@ -1,6 +1,6 @@
 ---
-title: ""
-date: 2021-01-01
+title: "Resume Generator"
+date: 2026-05-15
 draft: false
 tags:
     - data
