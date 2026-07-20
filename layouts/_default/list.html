@@ -40,13 +40,8 @@
 
 {{- $pages := union .RegularPages .Sections }}
 
-{{- if .IsHome }}
-{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
-{{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
-{{- end }}
-
-{{/* --- PORTFOLIO SECTION: GROUP & SORT BY ENDDATE / YEAR --- */}}
-{{- if eq .Section "portfolio" }}
+{{/* --- ALL NON-HOMEPAGE LISTS: GROUP & SORT BY ENDDATE / YEAR --- */}}
+{{- if not .IsHome }}
   {{- $scratch := newScratch }}
   {{- range $pages }}
     {{/* Use Params.endDate if present, fallback to .Date formatted as YYYY-MM-DD */}}
@@ -101,23 +96,20 @@
   {{- end }}
 
 {{- else }}
-  {{/* --- STANDARD PAGINATED LOOP FOR NON-PORTFOLIO SECTIONS (e.g., Writings) --- */}}
+  {{/* --- HOMEPAGE LIST LOOP --- */}}
+  {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
   {{- $paginator := .Paginate $pages }}
 
-  {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
+  {{- if and site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
   {{- partial "home_info.html" . }}
   {{- end }}
 
-  {{- $term := .Data.Term }}
   {{- range $index, $page := $paginator.Pages }}
-
   {{- $class := "post-entry" }}
-
   {{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
-  {{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
+  {{- if (and (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
   {{- $class = "first-entry" }}
-  {{- else if $term }}
-  {{- $class = "post-entry tag-entry" }}
   {{- end }}
 
   <article class="{{ $class }}">
