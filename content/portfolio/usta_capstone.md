@@ -1,5 +1,5 @@
 ---
-title: "Capstone Project with United State Tennis Association: Predicting Junior Player Performance Pathways"
+title: "USTA Capstone Project: Predicting Junior Player Performance Pathways"
 date: 2026-01-26
 endDate: 2026-05-01
 draft: false
