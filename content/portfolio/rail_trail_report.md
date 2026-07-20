@@ -1,5 +1,5 @@
 ---
-title: 'Rail Trail Report'
+title: 'Evaluating the Effect of Rail Trail Proximity on Residential Property Values'
 date: '2025-10-01'
 draft: false
 tags:
