@@ -1,6 +1,6 @@
 # config/_default/hugo.toml
 
-baseURL: "https://www.domonation.dev/"
+baseURL: "https://www.dominick.fyi/"
 languageCode: "en-us"
-title: "Domonation"
+title: "Dominick Robinson"
 theme: "PaperMod"

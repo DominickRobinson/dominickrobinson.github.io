@@ -17,7 +17,7 @@ EnableInstantClick: true
 
 profileMode:
   enabled: true
-  title: "Dominick Robinson"
+  title: "About Me"
   # subtitle: "Game dev • Data • Writing"
   imageUrl: "/images/portrait/me.jpg"
   imageTitle: "That's me!"

@@ -8,4 +8,4 @@ While not the funniest thing I’ve ever written, this piece is why I pursued a 
 
 This paper was written for a required first-year writing course called “Writing about Public Problems,” where I decided to focus on a local issue instead of a broader societal problem.
 
-[Download PDF](https://domonation.dev/pdf/greatest_depression.pdf)
+[Download PDF](/pdf/greatest_depression.pdf)

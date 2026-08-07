@@ -10,6 +10,6 @@ I led this game in GCS during Fall 2022. I was inspired by [Angry Bunnies: Colos
 
 I learned so much about game development while tinkering with this project. The scope became very large, but I felt that I managed it well with a clear roadmap. For fun, I took screenshots of each level and the text I wrote for each level/cutscene, and I created a book out of it.
 
-[Read the book](https://domonation.dev/pdf/MAD_RABBITS.pdf)
+[Read the book](/pdf/MAD_RABBITS.pdf)
 
 [Download here](https://www.gamecreation.org/games/mad_rabbits)

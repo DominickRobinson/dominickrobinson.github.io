@@ -8,4 +8,4 @@ I developed this online multiplayer slide puzzle video game for my AP Research c
 
 While I no longer have the code for the project, I vividly recall the game crashing for many people. This may have had to do with the read/write quotas, but I'm not totally sure. I definitely didn't know about error handling in high school, so this theory is plausible.
 
-[View PDF](https://domonation.dev/pdf/AP_Research_Paper.pdf)
+[View PDF](/pdf/AP_Research_Paper.pdf)
